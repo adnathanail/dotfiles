@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>admin.py</mask>
     <mask>tests.py</mask>
@@ -32,8 +30,8 @@
     <mask>urls.py</mask>
     <mask>html</mask>
     <mask>*.py</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.mock.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
