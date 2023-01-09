@@ -3,12 +3,36 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="models.py" />
+    <mask>tests.py</mask>
+    <mask>schedule_models.py</mask>
+    <mask>utils.py</mask>
+    <mask>*html</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.java</mask>
-    <mask>*.rs</mask>
+    <mask>*.pyw</mask>
+    <mask>dataportal_*</mask>
+    <mask>*.mips</mask>
+    <mask>*.scss</mask>
+    <mask>*.python</mask>
+    <mask>*.js</mask>
+    <mask>forms.py</mask>
+    <mask>*.md</mask>
+    <mask>*.tex</mask>
+    <mask>*.tf</mask>
+    <mask>*.module.ts</mask>
+    <mask>api.service.ts</mask>
+    <mask>views.py</mask>
+    <mask>serializers.py</mask>
+    <mask>*.spec.ts</mask>
+    <mask>urls.py</mask>
+    <mask>html</mask>
+    <mask>*.ts</mask>
+    <mask>*.mock.ts</mask>
+    <mask>*.yaml</mask>
+    <mask>*.html</mask>
+    <mask>*.py</mask>
+    <mask>tasks.py</mask>
+    <mask>models.py</mask>
   </component>
 </application>
