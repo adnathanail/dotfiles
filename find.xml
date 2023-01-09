@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="models.py" />
     <mask>tests.py</mask>
     <mask>schedule_models.py</mask>
     <mask>utils.py</mask>
@@ -20,7 +21,6 @@
     <mask>*.tex</mask>
     <mask>*.tf</mask>
     <mask>*.module.ts</mask>
-    <mask>models.py</mask>
     <mask>api.service.ts</mask>
     <mask>views.py</mask>
     <mask>serializers.py</mask>
@@ -33,5 +33,6 @@
     <mask>*.html</mask>
     <mask>*.py</mask>
     <mask>tasks.py</mask>
+    <mask>models.py</mask>
   </component>
 </application>
