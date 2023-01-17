@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>tests.py</mask>
     <mask>schedule_models.py</mask>
     <mask>utils.py</mask>
     <mask>*html</mask>
@@ -33,5 +32,6 @@
     <mask>tasks.py</mask>
     <mask>models.py</mask>
     <mask>*.py</mask>
+    <mask>*.java</mask>
   </component>
 </application>
