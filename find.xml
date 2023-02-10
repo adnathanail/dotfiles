@@ -34,8 +34,8 @@
     <mask>*.yaml</mask>
     <mask>tasks.py</mask>
     <mask>models.py</mask>
-    <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>*.py</mask>
   </component>
 </application>
