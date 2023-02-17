@@ -31,7 +31,7 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>tasks.py</mask>
-    <mask>*.py</mask>
     <mask>*.yaml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
