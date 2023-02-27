@@ -30,8 +30,8 @@
     <mask>tasks.py</mask>
     <mask>*.html</mask>
     <mask>admin.py</mask>
-    <mask>*.py</mask>
     <mask>*.yaml</mask>
     <mask>*.vue</mask>
+    <mask>*.py</mask>
   </component>
 </application>
