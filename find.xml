@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*html</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
@@ -33,5 +32,6 @@
     <mask>*.yaml</mask>
     <mask>*.vue</mask>
     <mask>*.py</mask>
+    <mask>tests.py</mask>
   </component>
 </application>
