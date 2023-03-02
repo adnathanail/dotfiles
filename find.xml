@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="models.py" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
@@ -23,7 +24,6 @@
     <mask>html</mask>
     <mask>*.ts</mask>
     <mask>*.mock.ts</mask>
-    <mask>models.py</mask>
     <mask>*.java</mask>
     <mask>tasks.py</mask>
     <mask>admin.py</mask>
@@ -33,5 +33,6 @@
     <mask>tests.py</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>models.py</mask>
   </component>
 </application>
