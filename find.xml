@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
@@ -26,12 +28,12 @@
     <mask>models.py</mask>
     <mask>*.java</mask>
     <mask>tasks.py</mask>
-    <mask>*.html</mask>
     <mask>admin.py</mask>
     <mask>*.yaml</mask>
     <mask>*.vue</mask>
     <mask>*.py</mask>
     <mask>tests.py</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
