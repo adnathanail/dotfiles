@@ -19,7 +19,6 @@
     <mask>views.py</mask>
     <mask>serializers.py</mask>
     <mask>*.spec.ts</mask>
-    <mask>urls.py</mask>
     <mask>html</mask>
     <mask>*.ts</mask>
     <mask>*.mock.ts</mask>
@@ -28,10 +27,11 @@
     <mask>admin.py</mask>
     <mask>*.yaml</mask>
     <mask>*.vue</mask>
-    <mask>*.py</mask>
     <mask>tests.py</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>models.py</mask>
+    <mask>urls.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
