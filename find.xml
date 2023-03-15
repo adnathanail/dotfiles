@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.tex" />
     <mask>*.css</mask>
@@ -28,6 +30,7 @@
     <mask>*.yaml</mask>
     <mask>*.vue</mask>
     <mask>tests.py</mask>
+    <mask>*.rs</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>models.py</mask>
