@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tex" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
@@ -12,7 +13,6 @@
     <mask>*.python</mask>
     <mask>forms.py</mask>
     <mask>*.md</mask>
-    <mask>*.tex</mask>
     <mask>*.tf</mask>
     <mask>*.module.ts</mask>
     <mask>api.service.ts</mask>
@@ -33,5 +33,6 @@
     <mask>models.py</mask>
     <mask>urls.py</mask>
     <mask>*.py</mask>
+    <mask>*.tex</mask>
   </component>
 </application>
