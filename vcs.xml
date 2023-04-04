@@ -26,6 +26,10 @@
           <option name="url" value="git@github.com:adnathanail/broute.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com&quot;" />
+          <option name="userName" value="adnathanail" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
