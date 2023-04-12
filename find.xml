@@ -28,10 +28,10 @@
     <mask>tests.py</mask>
     <mask>*.rs</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>models.py</mask>
     <mask>urls.py</mask>
     <mask>*.tex</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
   </component>
 </application>
