@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>dataportal_*</mask>
     <mask>*.mips</mask>
@@ -33,5 +32,6 @@
     <mask>*.tex</mask>
     <mask>*.py</mask>
     <mask>*.html</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
