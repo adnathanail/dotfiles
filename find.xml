@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="urls.py" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.pyw</mask>
     <mask>dataportal_*</mask>
     <mask>*.mips</mask>
@@ -29,10 +31,10 @@
     <mask>*.js</mask>
     <mask>models.py</mask>
     <mask>*.tex</mask>
-    <mask>*.py</mask>
     <mask>*.html</mask>
     <mask>*.toml</mask>
     <mask>tests.py</mask>
     <mask>urls.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
