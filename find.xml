@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.pyw</mask>
     <mask>dataportal_*</mask>
     <mask>*.mips</mask>
@@ -28,10 +29,10 @@
     <mask>*.js</mask>
     <mask>models.py</mask>
     <mask>*.tex</mask>
-    <mask>*.html</mask>
     <mask>*.toml</mask>
     <mask>tests.py</mask>
     <mask>urls.py</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
   </component>
 </application>
