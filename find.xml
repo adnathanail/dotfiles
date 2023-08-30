@@ -31,7 +31,7 @@
     <mask>*.toml</mask>
     <mask>tests.py</mask>
     <mask>urls.py</mask>
-    <mask>*.html</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
   </component>
 </application>
