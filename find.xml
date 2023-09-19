@@ -30,8 +30,8 @@
     <mask>*.tex</mask>
     <mask>*.toml</mask>
     <mask>tests.py</mask>
-    <mask>urls.py</mask>
     <mask>*.py</mask>
     <mask>*.html</mask>
+    <mask>urls.py</mask>
   </component>
 </application>
