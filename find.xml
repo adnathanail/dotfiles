@@ -29,9 +29,9 @@
     <mask>*.tex</mask>
     <mask>*.toml</mask>
     <mask>tests.py</mask>
-    <mask>*.html</mask>
     <mask>urls.py</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
