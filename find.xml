@@ -10,7 +10,6 @@
     <mask>*.python</mask>
     <mask>forms.py</mask>
     <mask>*.md</mask>
-    <mask>*.tf</mask>
     <mask>*.module.ts</mask>
     <mask>api.service.ts</mask>
     <mask>views.py</mask>
@@ -33,5 +32,6 @@
     <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
